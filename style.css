@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+h2{
+    color: tomato;
+    background-color: #041414;
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding: 20px;
+}
+.one{
+    background-color: #0d1546;
+    
+}
+li a{
+    padding: 20px;
+   color: white;
+}
